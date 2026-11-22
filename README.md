@@ -6,7 +6,7 @@ Juego de atletismo de verano en 3D, **gratis**, para Windows. Ocho pruebas, de 1
 
 ## Descargar
 
-**[⬇ Descargar la última versión para Windows](https://github.com/@@USER@@/solstice-games/releases/latest)**
+**[⬇ Descargar la última versión para Windows](https://github.com/jegalgar/solstice-games/releases/latest)**
 
 1. En la página de la release, baja `SolsticeGames_Windows.zip`.
 2. Descomprímelo y ejecuta `SolsticeGames.exe`. No necesita instalación.
